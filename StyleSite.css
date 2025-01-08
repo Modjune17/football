@@ -1,0 +1,71 @@
+head{ background-image:./images/th.png
+}
+
+
+
+body
+
+{   background-color: 	#C0C0C0;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+
+}
+div class="row"{
+    background-color:green;
+}
+div class="container-fluid p-5 :text-white text-center"{
+    background-color:white;
+}
+
+div.carousel-item{
+
+   margin-left: 500px;
+}
+
+body{
+  background-image: url('./image/non.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+.btn{
+ background-color:lightgrey;
+}
+
+.ronaldo{
+  width:5px;
+  height: 2px;
+}
+ #col1{
+  background-color: lightgrey;
+}
+ #col2{
+  background-color: lightgrey;
+}
+nav {
+  background-color: rgb(197, 193, 193);
+
+}
+
+.dropdown-item  {
+  
+ 
+  background-color: #f1f1f1;
+
+  
+}
+.dropdown-item:hover {background-color: rgb(128, 126, 126);}
+
+h2{
+  text-align: center;
+  text-transform: uppercase;
+
+}
+.coco{
+    background-color:rgb(197, 193, 193);
+    }
